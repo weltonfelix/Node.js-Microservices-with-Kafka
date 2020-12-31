@@ -1,0 +1,15 @@
+{
+  "name": "billing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "kafkajs": "^1.15.0"
+  }
+}
